@@ -1,2 +1,2 @@
-# ai_trading_Analyser
+ai_trading_Analyser
 useful app 
